@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFirstMapsProject</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="add_btn">Añadir nuevo sitio</string>
+    <string name="my_places">Mis sitios</string>
+    <string name="no_places">Todavía no has añadido ningún sitio</string>
+
+</resources>
